@@ -15,7 +15,6 @@
 <body>
     Industrial Classification<br/>
     By: Ahmed Abdulrazik Abduallah<br/>
-	Amr Ahmed El Agoz<br/>
     <input id="job-title" placeholder="enter job title"" type='text'>
     <button id="predict-button" >predict</button>   
     <p></p>
